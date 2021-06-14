@@ -1,0 +1,25 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://",
+        "url_png_logo": "https://",
+        "location": "Portugal",
+        "social": {
+            "twitter_handle": "pooltugal",
+            "telegram_handle": "pooltugal"
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": "https://www.pooltugal.com"
+        }
+    },
+    "my-pool-ids": {
+        "0": "aba9d859486f377801d24acfa05c7fdc5fabb083f75e115ece1c0539"
+    },
+    "when-satured-then-recommend": {
+        "0": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
